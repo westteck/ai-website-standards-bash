@@ -1,0 +1,17 @@
+# OpenCode Project Bootstrap for AI-Driven Development
+
+This script creates a complete OpenCode project framework for building complex applications using specialized AI agents, skills, documentation, and project memory.
+
+Features include:
+
+* 13 specialized AI agents for discovery, planning, architecture, development, security, testing, documentation, and project history
+* Structured project documentation and decision tracking
+* Discovery-driven design process that challenges assumptions before coding begins
+* MVP scope management to prevent feature creep
+* Architecture and framework decision workflows
+* Historical tracking of successes, failures, lessons learned, and "do not repeat" mistakes
+* Documentation automation and project knowledge management
+* OpenCode skills for common development workflows
+* Ready-to-use prompts for project discovery and technology selection
+
+Designed for long-term software projects where maintainability, consistency, documentation, and AI-assisted development are priorities.
