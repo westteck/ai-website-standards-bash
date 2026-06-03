@@ -1,0 +1,7 @@
+This bash script fully automates the setup of a headless browser testing environment for OpenCode.
+
+It executes the following steps:
+
+* **Infrastructure Provisioning:** Installs Node.js Playwright dependencies and downloads the headless Chromium browser engine directly onto your host system.
+* **Skill Deployment:** Automatically generates a native OpenCode skill (`ui-verification.md`) that teaches your routing agent how to inspect web layouts, track JavaScript console errors, and log runtime failures.
+* **Command Integration:** Deploys a custom slash command (`/test-ui`) that allows you to trigger local headless UI tests directly from the OpenCode interface with a single shortcut.
